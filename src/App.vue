@@ -17,7 +17,7 @@ export default {
     // teste,
     categoria
   },
-  data () {
+  data () {a
     return {
       nomeProjeto: 'WebAppSignalApp',
       intervalo: null,
